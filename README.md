@@ -86,4 +86,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogedayonline&show_icons=true&locale=en" alt="ogedayonline" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ogedayonline&theme=dark)](https://git.io/streak-stats)
