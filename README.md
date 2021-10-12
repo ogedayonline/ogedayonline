@@ -7,7 +7,7 @@
 ![I'm fresh graduate Software Developer From Turkey!](https://media.giphy.com/media/47HAiZLUYFoVJQbwB6/giphy.gif?cid=ecf05e472llooxw0qoacj7daf45lu4op11w7hf18bz89psmc&rid=giphy.gif&ct=g)
 
 
-- 🌱 I’m currently learning Java,Git 
+- 🌱 I’m currently learning Java,Git,HTML 
 - 📫 How to reach me: ogedayonline@gmail.com 
 
 
