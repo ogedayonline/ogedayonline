@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ogeday</h1>
-<h3 align="center">I'm fresh graduate Software Developer From Turkey!</h3>
-
-
-
-
-![I'm fresh graduate Software Developer From Turkey!](https://media.giphy.com/media/47HAiZLUYFoVJQbwB6/giphy.gif?cid=ecf05e472llooxw0qoacj7daf45lu4op11w7hf18bz89psmc&rid=giphy.gif&ct=g)
 
 
 - 🌱 I’m currently learning Java,Git,HTML 
