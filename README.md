@@ -1,6 +1,6 @@
 
 
-- 🌱 I’m currently learning Java,Git,HTML 
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: ogedayonline@gmail.com 
 
 
